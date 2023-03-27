@@ -1,0 +1,25 @@
+gender
+male    1
+female  0
+
+ever_married
+yes	1
+no	0
+
+work type
+child	1
+govt	2
+private 3
+self	4
+	
+residence type
+urban	1
+rural	0
+
+smoking_status
+formerly1
+never	2
+smoke	3
+Unk	4
+
+x - min / min-max
